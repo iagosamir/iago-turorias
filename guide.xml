@@ -1,0 +1,259 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Example">
+    <display-name lang="en">Example</display-name>
+    <url>http://www.dummy</url>
+  </channel>
+  <channel id="ESPN">
+    <display-name lang="pt">ESPN</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="ESPN+">
+    <display-name lang="pt">ESPN+</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Band Sports">
+    <display-name lang="pt">Band Sports</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Esporte Interativo">
+    <display-name lang="pt">Esporte Interativo</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Esporte Interativo HD">
+    <display-name lang="pt">Esporte Interativo HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="EI Maxx">
+    <display-name lang="pt">EI Maxx</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="EI Maxx HD">
+    <display-name lang="pt">EI Maxx HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="COMBATE">
+    <display-name lang="pt">COMBATE</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="FOX SPORTS">
+    <display-name lang="pt">FOX SPORTS</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="FOX SPORTS 2">
+    <display-name lang="pt">FOX SPORTS 2</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SporTV">
+    <display-name lang="pt">SporTV</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SportTV 3">
+    <display-name lang="pt">SportTV 3</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="PREMIERE CLUBES">
+    <display-name lang="pt">PREMIERE CLUBES</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="NBA">
+    <display-name lang="pt">NBA</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SPORT TV 2">
+    <display-name lang="pt">SPORT TV 2</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <programme start="20180322000000 +0000" stop="20180322235900 +0000" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
+  </programme>
+  <programme start="20180321203000 -0300" stop="20180321233000 -0300" channel="ESPN">
+    <title lang="pt">Esports: PGL Dota 2 Major</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180321233000 -0300" stop="20180322010000 -0300" channel="ESPN">
+    <title lang="pt">Bola da Vez</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180321202000 -0300" stop="20180321212000 -0300" channel="ESPN+">
+    <title lang="pt">Sportscenter: 2ª Edição - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180321212000 -0300" stop="20180321221000 -0300" channel="ESPN+">
+    <title lang="pt">Bate-Bola Na Veia - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180321221000 -0300" stop="20180321234000 -0300" channel="ESPN+">
+    <title lang="pt">FIFA Filmes: México 1986 - Hero, Com Michael Caine</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180321234000 -0300" stop="20180322004000 -0300" channel="ESPN+">
+    <title lang="pt">Linha de Passe: Mesa Redonda - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180321210000 -0300" stop="20180321223000 -0300" channel="Band Sports">
+    <title lang="pt">K.O. Arena</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20180321223000 -0300" stop="20180321230000 -0300" channel="Band Sports">
+    <title lang="pt">Poker Night</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180321230000 -0300" stop="20180322000000 -0300" channel="Band Sports">
+    <title lang="pt">Roda de Vôlei</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180321210000 -0300" stop="20180321230000 -0300" channel="Esporte Interativo">
+    <title lang="pt">+90</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180321230000 -0300" stop="20180322004500 -0300" channel="Esporte Interativo">
+    <title lang="pt">Ferroviário x Vitória</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180321204500 -0300" stop="20180321211500 -0300" channel="Esporte Interativo HD">
+    <title lang="pt">Mundo da Bola</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180321211500 -0300" stop="20180321230000 -0300" channel="Esporte Interativo HD">
+    <title lang="pt">Ferroviário x Vitória</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180321230000 -0300" stop="20180322004500 -0300" channel="Esporte Interativo HD">
+    <title lang="pt">CSA x Ceará</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180321210000 -0300" stop="20180321214500 -0300" channel="EI Maxx">
+    <title lang="pt">Jogando em Casa - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180321214500 -0300" stop="20180321233000 -0300" channel="EI Maxx">
+    <title lang="pt">Barcelona x Athletic Bilbao</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180321233000 -0300" stop="20180321234500 -0300" channel="EI Maxx">
+    <title lang="pt">De Sola</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180321234500 -0300" stop="20180322010000 -0300" channel="EI Maxx">
+    <title lang="pt">+90 - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180321210000 -0300" stop="20180321214500 -0300" channel="EI Maxx HD">
+    <title lang="pt">Jogando em Casa - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180321214500 -0300" stop="20180321233000 -0300" channel="EI Maxx HD">
+    <title lang="pt">Barcelona x Athletic Bilbao</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180321233000 -0300" stop="20180321234500 -0300" channel="EI Maxx HD">
+    <title lang="pt">De Sola</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180321234500 -0300" stop="20180322010000 -0300" channel="EI Maxx HD">
+    <title lang="pt">+90 - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180321210000 -0300" stop="20180321220000 -0300" channel="COMBATE">
+    <title lang="pt">The Ultimate Fighter 25: Redemption</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20180321220000 -0300" stop="20180322000000 -0300" channel="COMBATE">
+    <title lang="pt">Arena Combate Strike - Glory 51: Rotterdam Super Fight Series</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20180321210000 -0300" stop="20180321230000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Rodada Fox - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180321230000 -0300" stop="20180322010000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Central Fox - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180321194500 -0300" stop="20180321213000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">VT - Real Madrid x Girona</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180321213000 -0300" stop="20180321231500 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">VT - Barcelona x Athletic Bilbao</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180321231500 -0300" stop="20180322001500 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Show do Campeonato Espanhol</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180321193000 -0300" stop="20180321213000 -0300" channel="SporTV">
+    <title lang="pt">Portuguesa x Guarani - Vivo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180321213000 -0300" stop="20180321234500 -0300" channel="SporTV">
+    <title lang="pt">Futebol Campeão - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180321234500 -0300" stop="20180322010000 -0300" channel="SporTV">
+    <title lang="pt">Troca de Passes - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180321203000 -0300" stop="20180321223000 -0300" channel="SportTV 3">
+    <title lang="pt">Masters 1000: Miami - Vivo</title>
+    <category lang="pt">Esporte/Tênis</category>
+  </programme>
+  <programme start="20180321223000 -0300" stop="20180322010000 -0300" channel="SportTV 3">
+    <title lang="pt">UFC 222 - Cyborg x Kunitskaya</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20180321193000 -0300" stop="20180321214000 -0300" channel="PREMIERE CLUBES">
+    <title lang="pt">Santos x Botafogo SP - Vivo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180321214000 -0300" stop="20180322000000 -0300" channel="PREMIERE CLUBES">
+    <title lang="pt">Palmeiras x Grêmio Novorizontino - Vivo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180321210000 -0300" stop="20180321213000 -0300" channel="NBA">
+    <title lang="pt">Hora do Enem</title>
+    <category lang="pt">Séries/Educativo</category>
+  </programme>
+  <programme start="20180321213000 -0300" stop="20180321220000 -0300" channel="NBA">
+    <title lang="pt">NBR Entrevista</title>
+    <category lang="pt">Variedades/Entrevista</category>
+  </programme>
+  <programme start="20180321220000 -0300" stop="20180321230000 -0300" channel="NBA">
+    <title lang="pt">Documentário Temático</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20180321230000 -0300" stop="20180322000000 -0300" channel="NBA">
+    <title lang="pt">Repórter NBR</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180321202000 -0300" stop="20180321212000 -0300" channel="SPORT TV 2">
+    <title lang="pt">VT - São Paulo x São Caetano</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180321212000 -0300" stop="20180321213000 -0300" channel="SPORT TV 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180321213000 -0300" stop="20180321223000 -0300" channel="SPORT TV 2">
+    <title lang="pt">VT - Bragantino x Corinthians</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180321223000 -0300" stop="20180321224000 -0300" channel="SPORT TV 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180321224000 -0300" stop="20180321234000 -0300" channel="SPORT TV 2">
+    <title lang="pt">VT - Santos x Botafogo SP</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180321234000 -0300" stop="20180321235500 -0300" channel="SPORT TV 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180321235500 -0300" stop="20180322010000 -0300" channel="SPORT TV 2">
+    <title lang="pt">Campeonato Mineiro de Futebol</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+</tv>
